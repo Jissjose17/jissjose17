@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jissjose17&label=Profile%20views&color=0e75b6&style=flat" alt="jissjose17" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jissjose17](https://github.com/Jissjose17)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **jissjo123@gmail.com**
 
